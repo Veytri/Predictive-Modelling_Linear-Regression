@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Note: Use this template to develop your project. Do not change the steps. For each step, you may add additional cells if needed.
-
 # ## Predictive Modelling with Cancer Information
 # 
 # <b>Machine Learning & Computational Intelligence</b>
